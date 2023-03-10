@@ -1,7 +1,7 @@
 # Vagrant: Windows Installer
 
 Vagrant for Windows 10/11 x64
-Includes Virtualbox.
+Includes Virtualbox & Supvagrant (Vagrant control panel).
 
 ## References
 
