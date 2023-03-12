@@ -1,1 +1,1 @@
-Vagrant and the Vagrant logo are registered trademarks of HashiCorp®.
+Vagrant and the Vagrant logo are registered trademarks of HashiCorp(R).
